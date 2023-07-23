@@ -10,9 +10,12 @@ I have been intensely learning and practicing machine learning after working for
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
 * 🧠  I'm learning Pytorch and Tensorflow
 * 🤝  I'm open to collaborating on Interesting health-related AI projects
-* 📝  I blog on [medium](https://lukmanaj.medium.com/) ,sample of my blogs include:
-    *test
-       
+* 📝  I blog on [medium](https://lukmanaj.medium.com/), where I post contents like:
+  
+    * [Reinforcement Learning Unleashed: Exploring Key Concepts and a World of Possibilities]()
+    * [Solving the FizzBuzz Problem: Eight Creative Solutions in R Programming]()
+    * [Understanding Linear Regression: Predicting Continuous Output Values Based on Input Variable]()
+    * [Python Data Visualization: Exploring Data with Pandas, Matplotlib, and Seaborn]()
 * ⚡  I enjoy stargazing and contemplating the essence of creation in my free time
 
 ### Skills
