@@ -12,10 +12,10 @@ I have been intensely learning and practicing machine learning after working for
 * 🤝  I'm open to collaborating on Interesting health-related AI projects
 * 📝  I blog on [medium](https://lukmanaj.medium.com/), where I post contents like:
   
-    * [Reinforcement Learning Unleashed: Exploring Key Concepts and a World of Possibilities]()
-    * [Solving the FizzBuzz Problem: Eight Creative Solutions in R Programming]()
-    * [Understanding Linear Regression: Predicting Continuous Output Values Based on Input Variable]()
-    * [Python Data Visualization: Exploring Data with Pandas, Matplotlib, and Seaborn]()
+    * [Reinforcement Learning Unleashed: Exploring Key Concepts and a World of Possibilities](https://medium.com/@lukmanaj/reinforcement-learning-unleashed-exploring-key-concepts-and-a-world-of-possibilities-c87fe9a539f6)
+    * [Solving the FizzBuzz Problem: Eight Creative Solutions in R Programming](https://lukmanaj.medium.com/solving-the-fizzbuzz-problem-eight-creative-solutions-in-r-programming-ead8a01048b1)
+    * [Understanding Linear Regression: Predicting Continuous Output Values Based on Input Variable](https://lukmanaj.medium.com/understanding-linear-regression-predicting-continuous-output-values-based-on-input-variables-3e78f404492)
+    * [Python Data Visualization: Exploring Data with Pandas, Matplotlib, and Seaborn](https://lukmanaj.medium.com/python-data-visualization-exploring-data-with-pandas-matplotlib-and-seaborn-a0edd5aa6014)
 * ⚡  I enjoy stargazing and contemplating the essence of creation in my free time
 
 ### Skills
