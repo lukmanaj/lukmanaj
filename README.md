@@ -9,7 +9,7 @@ I have been intensely learning and practicing machine learning after working for
 * 🌍  I'm based in Kaduna, Nigeira
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
 * 🧠  I'm learning Pytorch and Tensorflow
-* 🤝  I'm open to collaborating on Interesting health-related AI projects
+* 🤝  I'm open to collaborating on interesting health-related AI projects
 * 📝  I blog on [medium](https://lukmanaj.medium.com/) and I also have a most preferred quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post contents like:
   
     * [Reinforcement Learning Unleashed: Exploring Key Concepts and a World of Possibilities](https://medium.com/@lukmanaj/reinforcement-learning-unleashed-exploring-key-concepts-and-a-world-of-possibilities-c87fe9a539f6)
