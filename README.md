@@ -6,7 +6,7 @@ Pharmacist and Data Scientist
 
 I have been intensely learning and practicing machine learning after working for a few years in the health sector.
 
-* 🌍  I'm based in Kaduna, Nigeira
+* 🌍  I'm based in Kaduna, Nigeria
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
 * 🧠  I'm learning `Pytorch` and `Tensorflow`
 * 🤝  I'm open to collaborating on interesting health-related AI projects
