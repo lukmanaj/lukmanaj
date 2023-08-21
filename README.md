@@ -8,7 +8,7 @@ I have been intensely learning and practicing machine learning after working for
 
 * 🌍  I'm based in Kaduna, Nigeria
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
-* 🧠  I'm learning `Pytorch` and `Tensorflow` and `DeepLearning.ai's AI for Medicine`
+* 🧠  I'm learning `Pytorch` and `Tensorflow` and `DeepLearning.ai's AI for Medicine-  Course 1`
 * 🤝  I'm open to collaborating on interesting AI for health projects
 * 📝  I blog on [medium](https://lukmanaj.medium.com/) and I also have a preferred quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post contents like:
   
