@@ -4,11 +4,11 @@ Hi 👋 My name is Lukman Aliyu Jibril
 Pharmacist and Data Scientist
 -----------------------------
 
-I have been intensely learning and practicing machine learning after working for a few years in the health sector.
+After working for a few years in the health sector, I decided a proper next step is to work on integrating AI into my practice, hence my current machine learning and AI journey.
 
 * 🌍  I'm based in Kaduna, Nigeria
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
-* 🧠  I'm learning `Pytorch` and `DeepLearning.ai's AI for Medicine`
+* 🧠  I'm learning `Pytorch` and `DeepLearning.ai's Generative Adversarial Networks Specialization`. I am also learning the huggingface ecosystem. 
 * 🤝  I'm open to collaborating on interesting AI for health projects
 * 📝  I blog on [medium](https://lukmanaj.medium.com/) and I also have a preferred quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post contents like:
   
