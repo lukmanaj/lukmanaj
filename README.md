@@ -8,7 +8,7 @@ After working for a few years in the health sector, I decided that a proper next
 
 * 🌍  I'm based in Kaduna, Nigeria
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
-* 🧠  I'm learning `Pytorch`, `DeepLearning.ai's Generative Adversarial Networks Specialization` and Hugging Face's `NLP Course`. 
+* 🧠  I'm learning `Pytorch` and Hugging Face's `NLP Course`. 
 * 🤝  I'm open to collaborating on projects related to improving health using AI.
 * 📝  I blog on [medium](https://lukmanaj.medium.com/) and I also have a preferred quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post contents like:
   
