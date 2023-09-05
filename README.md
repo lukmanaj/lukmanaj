@@ -4,9 +4,9 @@ Hi 👋 My name is Lukman Aliyu Jibril
 Pharmacist and Data Scientist
 -----------------------------
 
-After working for a few years in the health sector, I decided that a proper next step is to work on integrating AI into my practice, hence my current machine learning and AI journey.
+After working for a few years in the health sector, I decided that the proper next step was to work on integrating AI into my practice, hence my current machine learning and AI journey.
 
-* 🌍  I'm based in Kaduna, Nigeria
+* 🌍  I'm based in Kaduna, Nigeria.
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
 * 🧠  I'm learning `Pytorch` and Hugging Face's `NLP Course`. 
 * 🤝  I'm open to collaborating on projects related to improving health using AI.
