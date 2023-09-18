@@ -9,7 +9,7 @@ Super interested in integrating AI into my practice, hence my current machine le
 
 * 🌍  I'm based in Kaduna, Nigeria.
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
-* 🧠  I'm learning `Pytorch`, `Tensorflow` and Hugging Face's `NLP Course`. 
+* 🧠  I'm learning `Pytorch` and Hugging Face's `NLP Course`. 
 * 🤝  I'm open to collaborating on projects related to improving health using AI.
 * 📝  I blog on [medium](https://lukmanaj.medium.com/) and I also have a preferred quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post contents like:
   
