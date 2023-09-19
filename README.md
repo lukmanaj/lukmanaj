@@ -5,7 +5,7 @@ Pharmacist and Data Scientist
 -----------------------------
 
 
-Super interested in integrating AI into my practice, hence my current machine learning and AI journey.
+Interested in integrating AI into my practice, hence my current machine learning and AI journey.
 
 * 🌍  I'm based in Kaduna, Nigeria.
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
