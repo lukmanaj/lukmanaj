@@ -7,7 +7,7 @@ Pharmacist and Data Scientist
 
 My interest in integrating AI into my practice has propelled my current AI and machine learning journey.
 
-* 🌍  I'm based in Kaduna, Nigeria.
+* 🌍  I live in Kaduna, Nigeria.
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
 * 🧠  I'm learning `Pytorch` and Hugging Face's `NLP Course`. 
 * 🤝  I'm open to collaborating on projects related to improving health using AI.
