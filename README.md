@@ -11,7 +11,7 @@ My interest in integrating AI into my practice has propelled my current AI and m
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
 * 🧠  I'm learning `Deep Learning with Pytorch` and Hugging Face's `NLP Course`. 
 * 🤝  I'm open to collaborating on projects related to improving health using AI.
-* 📝  I blog on [medium](https://lukmanaj.medium.com/) and I also have a preferred quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post contents like:
+* 📝  I blog on [medium](https://lukmanaj.medium.com/) and I also have a preferred quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post content like:
   
     * [Reinforcement Learning Unleashed: Exploring Key Concepts and a World of Possibilities](https://medium.com/@lukmanaj/reinforcement-learning-unleashed-exploring-key-concepts-and-a-world-of-possibilities-c87fe9a539f6)
     * [Solving the FizzBuzz Problem: Eight Creative Solutions in R Programming](https://lukmanaj.medium.com/solving-the-fizzbuzz-problem-eight-creative-solutions-in-r-programming-ead8a01048b1)
