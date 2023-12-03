@@ -1,7 +1,7 @@
 Hi 👋 My name is Lukman Aliyu Jibril
 ====================================
 
-Pharmacist and Data Scientist
+Health-focussed Data Scientist
 -----------------------------
 
 
