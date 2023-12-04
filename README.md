@@ -1,4 +1,4 @@
-Hi 👋 My name is Lukman Aliyu Jibril
+Lukman Aliyu Jibril
 ====================================
 
 Health-focused Data Scientist
