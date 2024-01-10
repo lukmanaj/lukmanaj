@@ -1,7 +1,7 @@
 Lukman Aliyu Jibril
 ====================================
 
-Health-focused Data Scientist
+AI/ML Enthusiast
 -----------------------------
 
 
