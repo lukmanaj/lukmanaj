@@ -13,7 +13,7 @@ My interest in integrating AI into my practice has propelled my current AI/ML jo
   
     * `University of Colorado Boulder`'s `Foundations of Data Structures and Algorithms Specialization`,
     * `DeepLearning.AI`'s `Natural Language Processing Specialization` on  `Coursera`,
-    * `Arewa Data Science Academy`'s `Deep Learning with PyTorch` fellowship, and
+    * `Arewa Data Science Academy`'s first cohort of the `Deep Learning with PyTorch fellowship`, and
     * `Stanford University`'s `AI in Healthcare Specialization` on `Coursera`.
 * 🤝  I'm open to collaborating on projects related to health improvement using AI.
 * 📝  I blog on [medium](https://lukmanaj.medium.com/) and I also have a preferred quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post content like:
