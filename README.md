@@ -11,7 +11,7 @@ My interest in integrating AI into my practice has propelled my current AI/ML jo
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
 * 🧠  I'm currently enrolled in the following:
   
-    * `University of Colorado Boulder`'s `Foundations of Data Structures and Algorithms Specialization`,
+    * `University of Colorado Boulder`'s `Foundations of Data Structures and Algorithms Specialization` on `Coursera`,
     * `DeepLearning.AI`'s `Natural Language Processing Specialization` on  `Coursera`,
     * `Arewa Data Science Academy`'s first cohort of the `Deep Learning with PyTorch fellowship`, and
     * `Stanford University`'s `AI in Healthcare Specialization` on `Coursera`.
