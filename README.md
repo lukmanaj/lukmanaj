@@ -10,8 +10,8 @@ My interest in integrating AI into my practice has propelled my current AI/ML jo
 * 🌍  I live in Kaduna, Nigeria.
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
 * 🧠  I'm currently enrolled in the following programs:
-    * `Arewa Data Science Academy`'s first cohort of the `Deep Learning with PyTorch fellowship`, and
-    * `Statistical Inference with R` track on `DataCamp`,
+    * `Arewa Data Science Academy`'s first cohort of the `Deep Learning with PyTorch fellowship`  and
+    * `Statistical Inference with R` track on `DataCamp`.
 * 🤝  I'm open to collaborating on projects related to health improvement using AI.
 * 📝  I blog on [medium](https://lukmanaj.medium.com/) and I also have a preferred quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post contents like:
   
