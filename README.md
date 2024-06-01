@@ -5,7 +5,7 @@ AI/ML Enthusiast
 -----------------------------
 
 
-My interest in integrating AI into my practice has propelled my current AI/ML learning journey.
+My interest in integrating AI into my practice has propelled my current AI/ML learning journey .
 
 * 🌍  I live in Kaduna, Nigeria.
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
