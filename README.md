@@ -1,7 +1,7 @@
 Lukman Aliyu Jibril
 ====================================
 
-AI/ML and Quarto Enthusiast
+AI/ML Enthusiast
 -----------------------------
 
 
