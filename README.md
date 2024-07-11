@@ -9,8 +9,7 @@ My interest in integrating AI into my practice has propelled my current AI/ML le
 
 * 🌍  I live in Kaduna, Nigeria.
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
-* 🧠  I'm currently enrolled in the following:
-    *  `DataCamp`s Shiny Fundamentals track
+* 🧠  I'm currently learning `AI in Medicine`.
 * 🤝  I'm open to collaborating on projects related to health improvement using AI
 * 📝  I blog on [medium](https://lukmanaj.medium.com/) and I also have a preferred quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post content like:
   
