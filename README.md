@@ -11,7 +11,7 @@ My interest in integrating AI into my practice has propelled my current AI/ML le
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
 * 🧠  I'm currently learning `Health Informatics Specialization` by Johns Hopkins University on `Coursera`.
 * 🤝  I'm open to collaborating on projects related to health improvement using AI
-* 📝  I blog on [medium](https://lukmanaj.medium.com/) and I also have a preferred quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post content like:
+* 📝  I blog on [medium](https://lukmanaj.medium.com/) and I also have a preferred quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post contents like:
   
     * [Solving the FizzBuzz Problem: Eight Creative Solutions in R Programming](https://lukmanaj.medium.com/solving-the-fizzbuzz-problem-eight-creative-solutions-in-r-programming-ead8a01048b1)
     * [Understanding Linear Regression: Predicting Continuous Output Values Based on Input Variable](https://lukmanaj.medium.com/understanding-linear-regression-predicting-continuous-output-values-based-on-input-variables-3e78f404492)
