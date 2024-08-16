@@ -8,7 +8,8 @@ AI/ML Enthusiast
 My interest in integrating AI into my practice has propelled my current AI/ML learning journey. 
 
 * 🌍  I live in Kaduna, Nigeria.
-* ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
+* ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com
+* 👥  I’m a mentor at the Arewa Data Science Academy, a member of the HausaNLP community, and a moderator at the DeepLearning.AI Forum. I also serve as a mentor for the TensorFlow Developer Professional Certificate at the DeepLearning.AI Forum.
 * 🧠  I'm currently enrolled in the `Health Informatics Specialization` by Johns Hopkins University on `Coursera`.
 * 🤝  I'm open to collaborating on projects related to health improvement using AI
 * 📝  I blog on [medium](https://lukmanaj.medium.com/) and I also have a preferred quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post contents like:
