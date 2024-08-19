@@ -9,7 +9,7 @@ My interest in integrating AI into my practice has propelled my current AI/ML le
 
 * 🌍  I live in Kaduna, Nigeria.
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com) 
-* 👥  I’m a mentor at the Arewa Data Science Academy.
+* 👥  I’m a mentor at [Arewa Data Science Academy](https://arewadatascience.github.io/).
 * 🌐  I’m a member of the HausaNLP community.
 * 🛠  I contribute as a moderator at the DeepLearning.AI Forum.
 * 🎓  I also serve as a mentor for the TensorFlow Developer Professional Certificate at the DeepLearning.AI Forum.
