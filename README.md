@@ -18,7 +18,7 @@ My interest in integrating AI into my practice has propelled my current AI/ML le
      * University of Illinois Urbana-Champaign's `Deep Learning for Healthcare Specialization` on `Coursera`, and
      * Data Engineer with SQL track on `DataCamp`.
 * 🤝  I am open to collaborating on projects related to health improvement using AI
-* 📝  I blog on [medium](https://lukmanaj.medium.com/) and also on quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post contents like:
+* 📝  I blog on [medium](https://lukmanaj.medium.com/) and I also have a quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post contents like:
   
     * [Solving the FizzBuzz Problem: Eight Creative Solutions in R Programming](https://lukmanaj.medium.com/solving-the-fizzbuzz-problem-eight-creative-solutions-in-r-programming-ead8a01048b1)
     * [Understanding Linear Regression: Predicting Continuous Output Values Based on Input Variable](https://lukmanaj.medium.com/understanding-linear-regression-predicting-continuous-output-values-based-on-input-variables-3e78f404492)
