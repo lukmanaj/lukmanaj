@@ -16,7 +16,7 @@ My interest in integrating AI into what I currently do has propelled my current 
 * 🧠  I am currently enrolled in the following
      * Johns Hopkins University's `Health Informatics Specialization`  on Coursera
      * University of Illinois Urbana-Champaign's `Deep Learning for Healthcare Specialization` on `Coursera`, and
-     * Data Engineer with SQL track on `DataCamp`.
+     * Data Engineer with SQL track on `DataCamp`
 * 🤝  I am open to collaborating on projects related to health improvement using AI
 * 📝  I blog on [medium](https://lukmanaj.medium.com/) and I also have a quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post content like:
   
