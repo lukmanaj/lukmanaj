@@ -13,7 +13,7 @@ My interest in integrating AI into what I currently do has propelled my current 
 * 🌐  I am a member of the [HausaNLP](https://hausanlp.github.io/) community.
 * 🛠  I am a moderator at the DeepLearning.AI Forum.
 * 🎓  I also serve as a mentor for the [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) at the DeepLearning.AI Forum.
-* 🧠  I am currently enrolled in the following
+* 🧠  I am currently enrolled in the following:
      * University of Illinois Urbana-Champaign's `Deep Learning for Healthcare Specialization` on `Coursera`, and
      * Data Engineer with SQL track on `DataCamp`
 * 🤝  I am open to collaborating on projects related to health improvement using AI
