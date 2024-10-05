@@ -11,7 +11,7 @@ My interest in integrating AI into what I currently do has propelled my current 
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
 * 👥  I am a mentor at [Arewa Data Science Academy](https://arewadatascience.github.io/)
 * 🌐  I am a member of the [HausaNLP](https://hausanlp.github.io/) community
-* 🛠  I am a moderator at the DeepLearning.AI Forum
+* 🛠  I am also a moderator at the DeepLearning.AI Forum
 * 🎓  I also serve as a mentor for the [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) at the DeepLearning.AI Forum
 * 🧠  I am currently enrolled in University of Illinois Urbana-Champaign's `Deep Learning for Healthcare Specialization` on `Coursera`
 * 🤝  I am open to collaborating on projects related to health improvement using AI
