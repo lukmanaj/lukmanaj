@@ -13,7 +13,10 @@ My interest in integrating AI into what I currently do has propelled my current 
 * 🌐  I am a member of the [HausaNLP](https://hausanlp.github.io/) community
 * 🛠  I am also a moderator at the DeepLearning.AI Forum
 * 🎓  I also serve as a mentor for the [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) at the DeepLearning.AI Forum
-* 🧠  I am currently enrolled in University of Illinois Urbana-Champaign's `Deep Learning for Healthcare Specialization` on `Coursera`
+* 🧠  I am currently enrolled in the follwoing:
+  * University of Illinois Urbana-Champaign's `Deep Learning for Healthcare Specialization` on `Coursera`
+  * DataCamps `Analyzing Genomic Data in R` track
+  * Johns Hopkins University's `Genomic Data Science Specialization` on `Coursera`
 * 🤝  I am open to collaborating on projects related to health improvement using AI
 * 📝  I blog on [medium](https://lukmanaj.medium.com/) and I also have a quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post contents like:
   
