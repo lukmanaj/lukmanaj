@@ -7,7 +7,7 @@ AI/ML Enthusiast
 
 My interest in integrating AI into what I currently do, has propelled my current AI/ML learning journey
 
-* 🌍  I live in Kaduna, Nigeria.
+* 🌍  I live in Kaduna, Nigeria
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
 * 👥  I am a mentor at [Arewa Data Science Academy](https://arewadatascience.github.io/)
 * 🌐  I am a member of the [HausaNLP](https://hausanlp.github.io/) community
