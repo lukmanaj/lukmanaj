@@ -15,7 +15,7 @@ My interest in integrating AI into what I currently do, has propelled my current
 * 🎓  I volunteer as a mentor for the [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) at the `DeepLearning.AI Forum`
 * 🧠  I am currently enrolled in Johns Hopkins University's `Genomic Data Science Specialization` on `Coursera`
 * 🤝  I am open to collaborating on interesting projects
-* 📝  I blog on [medium](https://lukmanaj.medium.com/) and I also have a quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post content like:
+* 📝  I used to blog on [medium](https://lukmanaj.medium.com/), now I maintain a quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post content like:
   
     * [Solving the FizzBuzz Problem: Eight Creative Solutions in R Programming](https://lukmanaj.medium.com/solving-the-fizzbuzz-problem-eight-creative-solutions-in-r-programming-ead8a01048b1)
     * [Understanding Linear Regression: Predicting Continuous Output Values Based on Input Variable](https://lukmanaj.medium.com/understanding-linear-regression-predicting-continuous-output-values-based-on-input-variables-3e78f404492)
