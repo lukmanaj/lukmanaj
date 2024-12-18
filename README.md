@@ -1,8 +1,8 @@
 Lukman Aliyu Jibril
-===========================
+==============================
 
 AI/ML Enthusiast
----------------------------
+------------------------------
 
 
 My interest in integrating AI into what I currently do, has propelled my current AI/ML learning journey
