@@ -13,7 +13,7 @@ My interest in integrating AI into what I currently do, has propelled my current
 * 🌐  I am a member of [HausaNLP](https://hausanlp.github.io/) community
 * 🛠  I am a moderator at `DeepLearning.AI Forum`
 * 🎓  I volunteer as a mentor for the [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) and the Data Analytics Professional Certificate at the `DeepLearning.AI Forum`
-* 🧠  I am currently enrolled in Johns Hopkins University's `Genomic Data Science Specialization` on `Coursera` and `Julia Fundamentals` track on `DataCamp`
+* 🧠  I am currently enrolled in Johns Hopkins University's `Genomic Data Science Specialization` on `Coursera` and `OpenAI Fundamentals` track on `DataCamp`
 * 🤝  I am open to collaborating on interesting projects
 * 📝  I write on [medium](https://lukmanaj.medium.com/), now I also maintain a quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post contents like:
   
