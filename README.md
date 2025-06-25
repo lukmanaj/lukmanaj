@@ -12,7 +12,7 @@ My interest in integrating AI into what I currently do, has propelled my current
 * 👥  I am a mentor at [Arewa Data Science Academy](https://arewadatascience.github.io/)
 * 🌐  I am a member of [HausaNLP](https://hausanlp.github.io/) community
 * 🛠  I am a moderator at `DeepLearning.AI Forum`
-* 🎓  I volunteer as a mentor for the [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) and the [Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/data-analytics) at the `DeepLearning.AI Forum`
+* 🎓  I volunteer as a mentor for  [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) and [Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/data-analytics) at the `DeepLearning.AI Forum`
 * 🧠  I am currently enrolled in Johns Hopkins University's `Drug Development and Pharmacoepidemiology` on `Coursera` and `Data Storytelling` track on `DataCamp`
 * 🤝  I am open to collaborating on interesting projects
 * 📝  I write on [medium](https://lukmanaj.medium.com/), now I also maintain a quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post contents like:
