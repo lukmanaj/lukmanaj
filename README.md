@@ -14,7 +14,7 @@ My interest in integrating AI into what I currently do, has propelled my current
 * 🛠  I am a moderator at `DeepLearning.AI Forum`
 * 🎓  I volunteer as a mentor for  [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) and [Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/data-analytics) at the `DeepLearning.AI Forum`
 * 🧠  I am currently enrolled in Johns Hopkins University's `Drug Development and Pharmacoepidemiology` on `Coursera` and `Data Analyst in Power BI` track on `DataCamp`
-* 🤝  I am open to collaborating on interesting projects
+* 🤝  I am open to collaborating on interesting AI projects
 * 📝  I write on [medium](https://lukmanaj.medium.com/), and I also maintain a quarto [blog](https://lukmanaj.github.io/ailearningloop/), where I post contents like:
   
     * [Solving the FizzBuzz Problem: Eight Creative Solutions in R Programming](https://lukmanaj.medium.com/solving-the-fizzbuzz-problem-eight-creative-solutions-in-r-programming-ead8a01048b1)
