@@ -1,4 +1,4 @@
-Lukman Aliyu Jibril
+Lukman Jibril Aliyu
 =============================
 
 AI/ML Enthusiast
