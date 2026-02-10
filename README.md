@@ -11,7 +11,7 @@ My interest in integrating AI into what I currently do, has propelled my current
 * ✉️  You can contact me at [lukman.j.aliyu@gmail.com](mailto:lukman.j.aliyu@gmail.com)
 * 👥  I am a mentor at [Arewa Data Science Academy](https://arewadatascience.github.io/)
 * 🌐  I am a member of [HausaNLP](https://hausanlp.github.io/) community
-* 🛠  I am a moderator at `DeepLearning.AI Forum`
+* 🛠  I am a moderator and course tester at `DeepLearning.AI Forum`
 * 🎓  I volunteer as a mentor for  [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) and [Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/data-analytics) at the `DeepLearning.AI Forum`
 * 🧠  I am currently enrolled in `DeepLearning.AI`'s `Retrieval Augmented Generation` on `Coursera` and `Data Analyst in Power BI` track on `DataCamp`
 * 🤝  I am open to collaborating on interesting AI projects
